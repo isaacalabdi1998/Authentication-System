@@ -1,6 +1,25 @@
 # PHP Authentication System with MySQL
 
-This project demonstrates how to build a simple authentication system using PHP and MySQL database. It includes functionalities for user login, registration, and logout.
+This project showcases a basic authentication system using PHP and MySQL. It allows users to register, login, and logout.
+
+## Features
+- PHP: Backend scripting language.
+- MySQL: Database management system.
+- HTML, CSS, Bootstrap: Frontend for user interfaces.
+
+## Setup
+- Clone the repository.
+- Set up a local server with PHP and MySQL.
+- Import loginapp.sql into your MySQL database.
+- Update db_connection.php with your MySQL credentials.
+- Navigate to the project directory and start the server.
+
+## Usage
+- Visit index.php to access the main interface.
+- Use login.php to log in.
+- Use register.php to create an account.
+- Use logout.php to log out.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
